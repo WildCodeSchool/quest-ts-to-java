@@ -7,3 +7,7 @@ export class User {
     photos: Photo[];
     address: Address; 
 }
+
+
+// un ArrayList de chaînes de caractères
+// ArrayList<String> liste = new ArrayList<String>();
